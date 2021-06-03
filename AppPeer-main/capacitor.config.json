@@ -1,0 +1,9 @@
+{
+  "appId": "app.peer.mapua",
+  "appName": "app.peer.mapua",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {},
+  "linuxAndroidStudioPath": "/opt/android-studio-4.1/android-studio/bin/studio.sh"
+}

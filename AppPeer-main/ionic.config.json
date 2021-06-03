@@ -1,0 +1,7 @@
+{
+  "name": "AppPeer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
